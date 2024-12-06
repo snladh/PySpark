@@ -1,0 +1,11 @@
+TransactionID,Product,Category,Amount,Date,Region
+1,Laptop,Electronics,800,2024-12-01,North
+2,Smartphone,Electronics,500,2024-12-02,South
+3,Tablet,Electronics,300,2024-12-02,West
+4,Laptop,Electronics,850,2024-12-03,East
+5,Headphones,Accessories,150,2024-12-03,North
+6,Keyboard,Accessories,100,2024-12-04,South
+7,Mouse,Accessories,50,2024-12-04,West
+8,Smartphone,Electronics,600,2024-12-05,North
+9,Tablet,Electronics,350,2024-12-05,East
+10,Headphones,Accessories,200,2024-12-06,South
